@@ -32,7 +32,7 @@ Computer Science 101
 
 
 Project 3
-Bank Application
+Bank Application ( NOTE--MAKE YOUR OWN CSV FILE AND GIVE THE LINK OF THE FILE IN "class BankAccountApp" )
 Scenario: You are a back-end developer and need to create an application to handle new customer bank account requests.
 Your application should do the following:
 1) Read a .csv file of names, social security numbers, account type, and initial deposit.
