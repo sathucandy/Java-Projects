@@ -1,6 +1,8 @@
 # Java-Projects
-Project 1
+Project: 1
+
 Email Application
+
 Scenario: You are an IT Support Administrator Specialist and are
 charged with the task of creating email accounts for new hires.
 Your application should do the following:
@@ -12,8 +14,10 @@ email address.
 5) Have get methods to display the name, email, and mailbox capacity.
 
 
-Project 2
+Project: 2
+
 Student Database Application
+
 Scenario: You are a Database Administrator for a university and need to
 create an application to manage student enrollments and balance.
 Your application should do the following:
@@ -31,7 +35,8 @@ Computer Science 101
 7) To see the status of the student, we should see their name, ID, courses enrolled, and balance
 
 
-Project 3
+Project: 3
+
 Bank Application ( NOTE--MAKE YOUR OWN CSV FILE AND GIVE THE LINK OF THE FILE IN "class BankAccountApp" )
 
 Scenario: You are a back-end developer and need to create an application to handle new customer bank account requests.
